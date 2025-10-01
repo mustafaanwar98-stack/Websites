@@ -10,3 +10,9 @@ With over four years of experience in web development, including WordPress devel
 - **eCommerce Solutions**: Print-on-demand, subscriptions, custom checkout flows  
 - **SEO Optimization**: On-page & off-page strategies  
 - **Performance Enhancements**: Speed, responsive layouts, SMTP setup  
+
+### 🌐 Past Work  
+
+- 🔗 **WordPress** → [Ream Group](https://www.reamgroup.net/)  
+- 🔗 **Wix** → [La Cachette Head Spa](https://www.lacachetteheadspa.co.uk/)  
+- 🔗 **Shopify** → [Basilwood Farm](https://basilwoodfarm.com/)  
