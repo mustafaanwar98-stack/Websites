@@ -1,6 +1,6 @@
 ## Hi, I'm Mustafa 👋  
 
-With over four years of experience in web development, including WordPress, Shopify, Wix, and Squarespace...  
+With over four years of experience in web development, including WordPress development, Shopify store creation, Wix website design, and Squarespace site design, I specialize in crafting clean, responsive, and performance-driven websites that help businesses thrive online. Whether you need a professional small business website, a custom e-commerce platform built with WooCommerce or Shopify, or a modern portfolio website, I deliver tailored solutions that align with your brand, goals, and audience.
 
 ### 💼 Services I Offer  
 - **WordPress Development**: Custom themes, WooCommerce, speed optimization  
